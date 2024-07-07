@@ -1,2 +1,3 @@
 数据使用basicts的数据生成脚本从原始数据中生成
 https://github.com/zezhishao/BasicTS/tree/master/scripts/data_preparation
+data_in_12_out_12_rescale_False.pkl和data_in_12_out_12_rescale_True.pkl因为文件太大没有上传
